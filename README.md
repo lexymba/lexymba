@@ -7,7 +7,7 @@
 - **Образование**: Южно-Уральский государственный технический колледж, Информационные системы и программирование (Программист), 2021 – 2025 гг.
 - **Навыки**: логическое мышление, быстро обучаясь новым технологиям, умею работать в команде.
 - **Хобби**: рисование, 3D-моделирование, создание музыки, YouTube-блог, создание визуальных новелл
-- **Цель**: внести весомый вклад в русский GameDev, создать произведения, которые найдут отклик в сердцах других людей.
+
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### ✉ Контакты
 
-- **Mail.ru**: markestudio2@mail.ru
+- **Mail.ru**: kruten30102004@mail.ru
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,16 +54,6 @@
 <!-- Xmind -->
 <a href="https://www.xmind.net/" target="_blank" rel="noreferrer"> 
   <img src="https://assets.xmind.net/www/assets/images/new-xmind-logo-dark-60f56e9142.svg" alt="Xmind" width="40" height="40"/> 
-</a>
-
-<!-- Ibis Paint X -->
-<a href="https://ibispaint.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://store-images.s-microsoft.com/image/apps.28383.14202576542330599.e2a21905-d839-4a08-a9e2-42b2b28b331d.fe8f4307-30e2-4bf4-b5e6-c0be25fcea8b?h=307" alt="Ibis Paint X" width="40" height="40"/> 
-</a>
-
-<!-- RenPy -->
-<a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.renpy.org/static/index-logo.png" alt="RenPy" width="40" height="40"/> 
 </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=integrity-constraint&show_icons=true&locale=en&layout=compact" alt="integrity-constraint" /></p>
